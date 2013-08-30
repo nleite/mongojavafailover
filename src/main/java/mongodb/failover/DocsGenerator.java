@@ -4,8 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
-import com.mongodb.DBObject;
-
 public class DocsGenerator {
 
     
