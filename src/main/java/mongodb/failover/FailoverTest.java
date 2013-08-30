@@ -1,6 +1,5 @@
 package mongodb.failover;
 
-import java.io.IOException;
 import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.List;
